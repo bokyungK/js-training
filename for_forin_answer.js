@@ -41,9 +41,11 @@ for (let i in arr) {
 }
 console.log(maxLength);
 
-배운 점: length 뒤에는 ()를 붙이지 않는다.
+// 배운 점: length 뒤에는 ()를 붙이지 않는다.
 
-사용자에게 데이터를 받는 경우
+// 사용자에게 데이터를 받는 경우
+
+
 let maxLength = '';
 const inputNum = prompt('비교할 문자열 개수를 입력하세요.');
 const inputArr = [];
